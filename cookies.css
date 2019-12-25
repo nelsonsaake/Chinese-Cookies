@@ -31,7 +31,7 @@ body{
     word-spacing: 15px;
     max-width: 70vw;
     margin: 5vh auto 5vh auto; 
-    padding: 50px;
+    padding: 5vh 5vw; 
 }
 
 .footer{
